@@ -4,46 +4,46 @@
             "title": "Midi Sundress with Shirring detail",
             "image": "/images/dress1.jpg",
              "description": "This is for all the latest trends",
-              "price": 19,
-               "availableSizes": ["XL", "XXL"] 
+              "price": 10,
+               "availableSizes": ["S", "XXL"] 
             },
             { "_id": "dress2", 
                 "title": "Midi Sundress with ruched front",
                 "image": "/images/dress2.jpg",
                  "description": "This is for all the latest trends",
-                  "price": 19,
+                  "price": 20,
+                   "availableSizes": ["XL", "M"]
+
+            },
+            { "_id": "dress2", 
+                "title": "Midi Sundress with ruched front",
+                "image": "/images/dress3.jpg",
+                 "description": "This is for all the latest trends",
+                  "price": 30,
                    "availableSizes": ["XL", "XXL"]
 
             },
             { "_id": "dress2", 
                 "title": "Midi Sundress with ruched front",
-                "image": "/images/dress1.jpg",
+                "image": "/images/dress4.jpg",
                  "description": "This is for all the latest trends",
-                  "price": 19,
-                   "availableSizes": ["XL", "XXL"]
+                  "price": 35,
+                   "availableSizes": ["XL", "M"]
 
             },
             { "_id": "dress2", 
                 "title": "Midi Sundress with ruched front",
-                "image": "/images/dress2.jpg",
+                "image": "/images/dress5.jpg",
                  "description": "This is for all the latest trends",
-                  "price": 19,
-                   "availableSizes": ["XL", "XXL"]
+                  "price": 40,
+                   "availableSizes": ["L", "XXL"]
 
             },
             { "_id": "dress2", 
                 "title": "Midi Sundress with ruched front",
-                "image": "/images/dress1.jpg",
+                "image": "/images/dress6.jpg",
                  "description": "This is for all the latest trends",
-                  "price": 19,
-                   "availableSizes": ["XL", "XXL"]
-
-            },
-            { "_id": "dress2", 
-                "title": "Midi Sundress with ruched front",
-                "image": "/images/dress2.jpg",
-                 "description": "This is for all the latest trends",
-                  "price": 19,
+                  "price": 45,
                    "availableSizes": ["XL", "XXL"]
 
             }
