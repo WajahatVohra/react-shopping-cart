@@ -15,7 +15,7 @@
                    "availableSizes": ["XL", "M"]
 
             },
-            { "_id": "dress2", 
+            { "_id": "dress3", 
                 "title": "Midi Sundress with ruched front",
                 "image": "/images/dress3.jpg",
                  "description": "This is for all the latest trends",
@@ -23,7 +23,7 @@
                    "availableSizes": ["XL", "XXL"]
 
             },
-            { "_id": "dress2", 
+            { "_id": "dress4", 
                 "title": "Midi Sundress with ruched front",
                 "image": "/images/dress4.jpg",
                  "description": "This is for all the latest trends",
@@ -31,7 +31,7 @@
                    "availableSizes": ["XL", "M"]
 
             },
-            { "_id": "dress2", 
+            { "_id": "dress5", 
                 "title": "Midi Sundress with ruched front",
                 "image": "/images/dress5.jpg",
                  "description": "This is for all the latest trends",
@@ -39,7 +39,7 @@
                    "availableSizes": ["L", "XXL"]
 
             },
-            { "_id": "dress2", 
+            { "_id": "dress6", 
                 "title": "Midi Sundress with ruched front",
                 "image": "/images/dress6.jpg",
                  "description": "This is for all the latest trends",
