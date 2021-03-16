@@ -60,9 +60,9 @@ export default class Products extends Component {
                                             }
                                         </p>
                                         <div className="product-price">
-                                            <div>{util.formatCurrency(product.price)}</div>
-                                            <button className="button primary" onClick={(e)=>{
-                                                this.props.addToCart(this.props.cartItems, product);
+                                            <div>{formatCurrency(product.price)}</div>
+                                            <button className="button primary" onClick={()=>{
+                                                this.props.addToCart(product);
                                                 this.closeModal();
                                             }}>Add To Cart</button>
                                         </div>
